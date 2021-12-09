@@ -1,9 +1,10 @@
-                                                        My Project Idea
+# My Project Idea ✨
                                                         
-Objective: To build a simple shopping cart web application
+Objective: To build a simple Starbucks store web application
 
-Programming Language: JavaScript, CSS, HTML
+Basic functions of this web app:
 
-Basic functions of this web app: add products, show products in the cart, update product data in the cart
-
+    - Users can be able to add products
+    - The app can be able to show products in the cart
+    - The app can be able to update product data in the 
 
